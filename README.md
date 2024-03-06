@@ -1,14 +1,11 @@
-## Automobile Sales During Recession
-
+# Automobile Sales During Recession
 This GitHub repository contains code and data related to analyzing automobile sales during recession periods. The code is written in Python and utilizes libraries such as NumPy, Pandas, Matplotlib, Seaborn, and Folium for data manipulation, visualization, and mapping.
 
-### Data
-
+## Data
 The analysis is performed on a dataset of historical automobile sales, which can be accessed from the following URL: [Historical Automobile Sales Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
 . The dataset includes information about automobile sales, recession periods, vehicle types, advertising expenditure, unemployment rates, and more.
 
-### Code
-
+## Code
 The Python code provided in this repository demonstrates various analyses and visualizations related to automobile sales during recession periods. The code covers the following topics:
 
 - Analyzing overall automobile sales trends during recession periods
@@ -20,8 +17,7 @@ The Python code provided in this repository demonstrates various analyses and vi
 
 Please refer to the code files in this repository for detailed implementations and explanations.
 
-### Usage
-
+## Usage
 To run the code and reproduce the analyses, follow these steps:
 
 1. Clone or download this repository to your local machine.
@@ -31,13 +27,11 @@ To run the code and reproduce the analyses, follow these steps:
 
 Feel free to explore the code, modify it according to your needs, and use it as a reference for your own analyses.
 
-### Contributions
-
+## Contributions
 Contributions to this repository are welcome. If you have any suggestions, improvements, or additional analyses related to automobile sales during recession periods, please feel free to contact me directly at [kcdipson18@gmail.com]
 
 
-### License
-
+## License
 This project is licensed under the MIT License.
 
 Please note that the code and analyses provided in this repository are for educational and informational purposes only.
