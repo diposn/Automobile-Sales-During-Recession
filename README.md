@@ -4,7 +4,8 @@ This GitHub repository contains code and data related to analyzing automobile sa
 
 ### Data
 
-The analysis is performed on a dataset of historical automobile sales, which can be accessed from the following URL: [Historical Automobile Sales Dataset]. The dataset includes information about automobile sales, recession periods, vehicle types, advertising expenditure, unemployment rates, and more.
+The analysis is performed on a dataset of historical automobile sales, which can be accessed from the following URL: [Historical Automobile Sales Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/historical_automobile_sales.csv)
+. The dataset includes information about automobile sales, recession periods, vehicle types, advertising expenditure, unemployment rates, and more.
 
 ### Code
 
