@@ -28,7 +28,7 @@ To run the code and reproduce the analyses, follow these steps:
 Feel free to explore the code, modify it according to your needs, and use it as a reference for your own analyses.
 
 ## Contributions
-Contributions to this repository are welcome. If you have any suggestions, improvements, or additional analyses related to automobile sales during recession periods, please feel free to contact me directly at [kcdipson18@gmail.com]
+Contributions to this repository are welcome. If you have any suggestions, improvements, or additional analyses related to automobile sales during recession periods, please feel free to contact me directly at [dkc04@arizona.edu]
 
 
 ## License
