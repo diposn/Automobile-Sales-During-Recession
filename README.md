@@ -36,4 +36,4 @@ This project is licensed under the MIT License.
 
 Please note that the code and analyses provided in this repository are for educational and informational purposes only.
 
-For any questions or further information, please contact Dipson K C at [kcdipson18@gmail.com]
+For any questions or further information, please contact Dipson K C at [dkc04@arizona.edu]
